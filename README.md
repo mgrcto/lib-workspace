@@ -1,3 +1,6 @@
+Archived Repository
+Moved to new [Repository](https://github.com/CLARC-Software/OData4Angular) and maintained there.
+
 # LibWorkspace
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
